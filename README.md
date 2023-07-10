@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harold Sadca
-====================================================================================================================================
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Harold Sadca
 
-Full Stack Software Engineer
-----------------------------
+## Full Stack Software Engineer
 
 I have a strong background in full stack development. I'm always exploring new technologies and tools to expand my skill set and stay up-to-date with the rapidly evolving software landscape.
 
-*   🌍  I'm based in London
-*   🖥️  See my portfolio at [harold-sadca.co.uk](https://www.harold-sadca.co.uk/)
-*   ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
-*   🤝  I'm open to collaborating on Full Stack Projects
-  ### Skills 
+- 🌍  I'm based in London
+- 🖥️  See my portfolio at [harold-sadca.co.uk](https://www.harold-sadca.co.uk/)
+- ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
+- 🤝  I'm open to collaborating on Full Stack Projects
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
