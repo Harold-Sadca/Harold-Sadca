@@ -4,7 +4,6 @@
 
 I have a strong background in full stack development. I'm always exploring new technologies and tools to expand my skill set and stay up-to-date with the rapidly evolving software landscape.
 
-<<<<<<< HEAD
 - 🌍  I'm based in London
 - 🖥️  See my portfolio at [harold-sadca.co.uk](https://www.harold-sadca.co.uk/)
 - ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
@@ -13,12 +12,14 @@ I have a strong background in full stack development. I'm always exploring new t
 ### Skills
 
 =======
-*   🌍  I'm based in London
-*   🖥️  See my portfolio at [harold-sadca.co.uk](https://www.harold-sadca.co.uk/)
-*   ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
-*   🤝  I'm open to collaborating on Full Stack Projects
-  ### Skills 
->>>>>>> e64bda1 (Update README.md)
+
+- 🌍  I'm based in London
+- 🖥️  See my portfolio at [harold-sadca.co.uk](https://www.harold-sadca.co.uk/)
+- ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
+- 🤝  I'm open to collaborating on Full Stack Projects
+
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -36,22 +37,10 @@ I have a strong background in full stack development. I'm always exploring new t
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 <a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
-=======
->>>>>>> 3e1ee9d (Update README.md)
-=======
 <a href="https://www.apollographql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
->>>>>>> 95dff11 (Update README.md)
-=======
 <a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
->>>>>>> 17d42cd (Update README.md)
-=======
 <a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
->>>>>>> 94a5994 (Update README.md)
 </p>
                     
 ### Socials
