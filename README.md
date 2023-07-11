@@ -8,7 +8,8 @@ I have a strong background in full stack development. I'm always exploring new t
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
-*   🤝  I'm open to collaborating on Full Stack Projects### Skills 
+*   🤝  I'm open to collaborating on Full Stack Projects
+  ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
