@@ -28,7 +28,10 @@ I have a strong background in full stack development. I'm always exploring new t
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
+<<<<<<< HEAD
 <a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
+=======
+>>>>>>> 3e1ee9d (Update README.md)
 </p>
                     
 ### Socials
