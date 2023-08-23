@@ -39,6 +39,7 @@ I have a strong background in full stack development. I'm always exploring new t
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
 =======
 >>>>>>> 3e1ee9d (Update README.md)
@@ -48,6 +49,9 @@ I have a strong background in full stack development. I'm always exploring new t
 =======
 <a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
 >>>>>>> 17d42cd (Update README.md)
+=======
+<a href="https://www.apollographql.com/" target="blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" alt="graphql" width="40" height="40"/> </a>
+>>>>>>> 94a5994 (Update README.md)
 </p>
                     
 ### Socials
