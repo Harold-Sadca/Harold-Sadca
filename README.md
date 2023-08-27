@@ -11,7 +11,6 @@ I have a strong background in full stack development. I'm always exploring new t
 
 ### Skills
 
-=======
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [harold-sadca.co.uk](https://www.harold-sadca.co.uk/)
 *   ✉️  You can contact me at [sadcah@yahoo.com](mailto:sadcah@yahoo.com)
